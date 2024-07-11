@@ -1,0 +1,9 @@
+.movie-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
